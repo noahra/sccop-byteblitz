@@ -1,1 +1,1 @@
-# sccop-byteblitz
+# scoop-byteblitz
