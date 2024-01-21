@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "url": "https://github.com/noahra/byteblitz/releases/download/v1.0.0/byteblitz-x86_64-pc-windows-msvc.zip",
-  "hash": "b4f05f71c1f70aac38e127ff68d4566bf2e9e8fae2ddeaaa526879053b9a67ea",
+  "hash": "50916a932a6f4b69b23852521773f655e027ef1a9d52668c05f7ed6e3b273fab",
   "bin": "byteblitz.exe",
   "checkver": "github",
   "autoupdate": {
